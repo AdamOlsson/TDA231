@@ -1,0 +1,31 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+scikit-learn = "*"
+matplotlib = "*"
+keras = "*"
+h5py = "*"
+graphviz = "*"
+pydot = "*"
+jupyter = "*"
+pillow = "*"
+tensorflow = "*"
+certifi = "*"
+incremental = "*"
+request = "*"
+tornado = "==5.1.1"
+sklearn = "*"
+pandas = "*"
+pytorch = "*"
+pipenv = "*"
+install = "*"
+torch = "*"
+torchvision = "*"
+
+[requires]
+python_version = "3.7"
